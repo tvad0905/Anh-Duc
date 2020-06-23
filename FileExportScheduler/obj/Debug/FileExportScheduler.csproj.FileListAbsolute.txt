@@ -1,0 +1,155 @@
+D:\Projects\ES-GSMT-Demo\FileExportScheduler\bin\Debug\FileExportScheduler.exe.config
+D:\Projects\ES-GSMT-Demo\FileExportScheduler\bin\Debug\FileExportScheduler.exe
+D:\Projects\ES-GSMT-Demo\FileExportScheduler\bin\Debug\FileExportScheduler.pdb
+D:\Projects\ES-GSMT-Demo\FileExportScheduler\obj\Debug\FileExportScheduler.csprojAssemblyReference.cache
+D:\Projects\ES-GSMT-Demo\FileExportScheduler\obj\Debug\FileExportScheduler.Properties.Resources.resources
+D:\Projects\ES-GSMT-Demo\FileExportScheduler\obj\Debug\FileExportScheduler.csproj.GenerateResource.cache
+D:\Projects\ES-GSMT-Demo\FileExportScheduler\obj\Debug\FileExportScheduler.csproj.CoreCompileInputs.cache
+D:\Projects\ES-GSMT-Demo\FileExportScheduler\obj\Debug\FileExportScheduler.exe
+D:\Projects\ES-GSMT-Demo\FileExportScheduler\obj\Debug\FileExportScheduler.pdb
+D:\Projects\ES-GSMT-Demo\FileExportScheduler\obj\Debug\FileExportScheduler.FormMain.resources
+D:\Projects\ES-GSMT-Demo\FileExportScheduler\obj\Debug\FileExportScheduler.FormDataList.resources
+D:\Projects\ES-GSMT-Demo\FileExportScheduler\obj\Debug\FileExportScheduler.FormSetting.resources
+D:\Projects\ES-GSMT-Demo\FileExportScheduler\obj\Debug\FileExportScheduler.DeviceConfiguration.resources
+D:\Projects\ES-GSMT-Demo\FileExportScheduler\obj\Debug\FileExportScheduler.ProtocolConfiguration.resources
+D:\Projects\ES-GSMT-Demo\FileExportScheduler\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\ES-GSMT-Demo\FileExportScheduler\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\ES-GSMT-Demo\FileExportScheduler\obj\Debug\FileExportScheduler.csproj.CopyComplete
+F:\Ky 6 OJT\New_demo\New_demo\FileExportScheduler\bin\Debug\FileExportScheduler.exe.config
+F:\Ky 6 OJT\New_demo\New_demo\FileExportScheduler\bin\Debug\FileExportScheduler.exe
+F:\Ky 6 OJT\New_demo\New_demo\FileExportScheduler\bin\Debug\FileExportScheduler.pdb
+F:\Ky 6 OJT\New_demo\New_demo\FileExportScheduler\bin\Debug\Newtonsoft.Json.dll
+F:\Ky 6 OJT\New_demo\New_demo\FileExportScheduler\bin\Debug\Newtonsoft.Json.xml
+F:\Ky 6 OJT\New_demo\New_demo\FileExportScheduler\obj\Debug\FileExportScheduler.csprojAssemblyReference.cache
+F:\Ky 6 OJT\New_demo\New_demo\FileExportScheduler\obj\Debug\FileExportScheduler.DeviceConfiguration.resources
+F:\Ky 6 OJT\New_demo\New_demo\FileExportScheduler\obj\Debug\FileExportScheduler.FormDataList.resources
+F:\Ky 6 OJT\New_demo\New_demo\FileExportScheduler\obj\Debug\FileExportScheduler.FormMain.resources
+F:\Ky 6 OJT\New_demo\New_demo\FileExportScheduler\obj\Debug\FileExportScheduler.FormSetting.resources
+F:\Ky 6 OJT\New_demo\New_demo\FileExportScheduler\obj\Debug\FileExportScheduler.Properties.Resources.resources
+F:\Ky 6 OJT\New_demo\New_demo\FileExportScheduler\obj\Debug\FileExportScheduler.ProtocolConfiguration.resources
+F:\Ky 6 OJT\New_demo\New_demo\FileExportScheduler\obj\Debug\FileExportScheduler.csproj.GenerateResource.cache
+F:\Ky 6 OJT\New_demo\New_demo\FileExportScheduler\obj\Debug\FileExportScheduler.csproj.CoreCompileInputs.cache
+F:\Ky 6 OJT\New_demo\New_demo\FileExportScheduler\obj\Debug\FileExportScheduler.csproj.CopyComplete
+F:\Ky 6 OJT\New_demo\New_demo\FileExportScheduler\obj\Debug\FileExportScheduler.exe
+F:\Ky 6 OJT\New_demo\New_demo\FileExportScheduler\obj\Debug\FileExportScheduler.pdb
+F:\Ky 6 OJT\New_demo\New_demo\FileExportScheduler\bin\Debug\IPAddressControlLib.dll
+C:\Users\admin\Desktop\PLCCuaDuy\FileExportScheduler\bin\Debug\FileExportScheduler.exe.config
+C:\Users\admin\Desktop\PLCCuaDuy\FileExportScheduler\bin\Debug\FileExportScheduler.exe
+C:\Users\admin\Desktop\PLCCuaDuy\FileExportScheduler\bin\Debug\FileExportScheduler.pdb
+C:\Users\admin\Desktop\PLCCuaDuy\FileExportScheduler\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\PLCCuaDuy\FileExportScheduler\obj\Debug\FileExportScheduler.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\PLCCuaDuy\FileExportScheduler\obj\Debug\FileExportScheduler.DeviceConfiguration.resources
+C:\Users\admin\Desktop\PLCCuaDuy\FileExportScheduler\obj\Debug\FileExportScheduler.FormDataList.resources
+C:\Users\admin\Desktop\PLCCuaDuy\FileExportScheduler\obj\Debug\FileExportScheduler.FormMain.resources
+C:\Users\admin\Desktop\PLCCuaDuy\FileExportScheduler\obj\Debug\FileExportScheduler.FormSetting.resources
+C:\Users\admin\Desktop\PLCCuaDuy\FileExportScheduler\obj\Debug\FileExportScheduler.Properties.Resources.resources
+C:\Users\admin\Desktop\PLCCuaDuy\FileExportScheduler\obj\Debug\FileExportScheduler.ProtocolConfiguration.resources
+C:\Users\admin\Desktop\PLCCuaDuy\FileExportScheduler\obj\Debug\FileExportScheduler.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\PLCCuaDuy\FileExportScheduler\obj\Debug\FileExportScheduler.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\PLCCuaDuy\FileExportScheduler\obj\Debug\FileExportScheduler.csproj.CopyComplete
+C:\Users\admin\Desktop\PLCCuaDuy\FileExportScheduler\obj\Debug\FileExportScheduler.exe
+C:\Users\admin\Desktop\PLCCuaDuy\FileExportScheduler\obj\Debug\FileExportScheduler.pdb
+D:\FileExportScheduler\obj\Debug\FileExportScheduler.csprojAssemblyReference.cache
+D:\FileExportScheduler\obj\Debug\FileExportScheduler.DeviceConfiguration.resources
+D:\FileExportScheduler\obj\Debug\FileExportScheduler.FormDataList.resources
+D:\FileExportScheduler\obj\Debug\FileExportScheduler.FormMain.resources
+D:\FileExportScheduler\obj\Debug\FileExportScheduler.FormSetting.resources
+D:\FileExportScheduler\obj\Debug\FileExportScheduler.Properties.Resources.resources
+D:\FileExportScheduler\obj\Debug\FileExportScheduler.ProtocolConfiguration.resources
+D:\FileExportScheduler\obj\Debug\FileExportScheduler.csproj.GenerateResource.cache
+D:\FileExportScheduler\obj\Debug\FileExportScheduler.csproj.CoreCompileInputs.cache
+D:\FileExportScheduler\obj\Debug\FileExportScheduler.exe
+D:\FileExportScheduler\obj\Debug\FileExportScheduler.pdb
+D:\FileExportScheduler\bin\Debug\FileExportScheduler.exe.config
+D:\FileExportScheduler\bin\Debug\FileExportScheduler.exe
+D:\FileExportScheduler\bin\Debug\FileExportScheduler.pdb
+D:\FileExportScheduler\bin\Debug\Newtonsoft.Json.xml
+D:\FileExportScheduler\obj\Debug\FileExportScheduler.csproj.CopyComplete
+D:\FileExportScheduler\bin\Debug\EasyModbus.dll
+C:\Users\admin\Desktop\FileExportScheduler\bin\Debug\FileExportScheduler.exe.config
+C:\Users\admin\Desktop\FileExportScheduler\bin\Debug\FileExportScheduler.exe
+C:\Users\admin\Desktop\FileExportScheduler\bin\Debug\FileExportScheduler.pdb
+C:\Users\admin\Desktop\FileExportScheduler\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\FileExportScheduler\obj\Debug\FileExportScheduler.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\FileExportScheduler\obj\Debug\FileExportScheduler.AddAndEditData.resources
+C:\Users\admin\Desktop\FileExportScheduler\obj\Debug\FileExportScheduler.DeviceConfiguration.resources
+C:\Users\admin\Desktop\FileExportScheduler\obj\Debug\FileExportScheduler.FormDataList.resources
+C:\Users\admin\Desktop\FileExportScheduler\obj\Debug\FileExportScheduler.FormMain.resources
+C:\Users\admin\Desktop\FileExportScheduler\obj\Debug\FileExportScheduler.FormSetting.resources
+C:\Users\admin\Desktop\FileExportScheduler\obj\Debug\FileExportScheduler.Properties.Resources.resources
+C:\Users\admin\Desktop\FileExportScheduler\obj\Debug\FileExportScheduler.ProtocolConfiguration.resources
+C:\Users\admin\Desktop\FileExportScheduler\obj\Debug\FileExportScheduler.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\FileExportScheduler\obj\Debug\FileExportScheduler.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\FileExportScheduler\obj\Debug\FileExportScheduler.csproj.CopyComplete
+C:\Users\admin\Desktop\FileExportScheduler\obj\Debug\FileExportScheduler.exe
+C:\Users\admin\Desktop\FileExportScheduler\obj\Debug\FileExportScheduler.pdb
+D:\DEMO\FileExportScheduler\obj\Debug\FileExportScheduler.csprojAssemblyReference.cache
+D:\DEMO\FileExportScheduler\obj\Debug\FileExportScheduler.AddAndEditData.resources
+D:\DEMO\FileExportScheduler\obj\Debug\FileExportScheduler.DeviceConfiguration.resources
+D:\DEMO\FileExportScheduler\obj\Debug\FileExportScheduler.FormDataList.resources
+D:\DEMO\FileExportScheduler\obj\Debug\FileExportScheduler.FormMain.resources
+D:\DEMO\FileExportScheduler\obj\Debug\FileExportScheduler.FormSetting.resources
+D:\DEMO\FileExportScheduler\obj\Debug\FileExportScheduler.Properties.Resources.resources
+D:\DEMO\FileExportScheduler\obj\Debug\FileExportScheduler.ProtocolConfiguration.resources
+D:\DEMO\FileExportScheduler\obj\Debug\FileExportScheduler.csproj.GenerateResource.cache
+D:\DEMO\FileExportScheduler\obj\Debug\FileExportScheduler.csproj.CoreCompileInputs.cache
+D:\DEMO\FileExportScheduler\obj\Debug\FileExportScheduler.exe
+D:\DEMO\FileExportScheduler\obj\Debug\FileExportScheduler.pdb
+D:\DEMO\FileExportScheduler\bin\Debug\FileExportScheduler.exe.config
+D:\DEMO\FileExportScheduler\bin\Debug\FileExportScheduler.exe
+D:\DEMO\FileExportScheduler\bin\Debug\FileExportScheduler.pdb
+D:\DEMO\FileExportScheduler\bin\Debug\Newtonsoft.Json.xml
+D:\DEMO\FileExportScheduler\obj\Debug\FileExportScheduler.csproj.CopyComplete
+D:\FileExportScheduler\obj\Debug\FileExportScheduler.AddAndEditData.resources
+D:\.NET CORE\ES-GSMT-Demo\ES-GSMT-Demo\FileExportScheduler\bin\Debug\FileExportScheduler.exe.config
+D:\.NET CORE\ES-GSMT-Demo\ES-GSMT-Demo\FileExportScheduler\bin\Debug\FileExportScheduler.exe
+D:\.NET CORE\ES-GSMT-Demo\ES-GSMT-Demo\FileExportScheduler\bin\Debug\FileExportScheduler.pdb
+D:\.NET CORE\ES-GSMT-Demo\ES-GSMT-Demo\FileExportScheduler\bin\Debug\Newtonsoft.Json.xml
+D:\.NET CORE\ES-GSMT-Demo\ES-GSMT-Demo\FileExportScheduler\obj\Debug\FileExportScheduler.csprojAssemblyReference.cache
+D:\.NET CORE\ES-GSMT-Demo\ES-GSMT-Demo\FileExportScheduler\obj\Debug\FileExportScheduler.DeviceConfiguration.resources
+D:\.NET CORE\ES-GSMT-Demo\ES-GSMT-Demo\FileExportScheduler\obj\Debug\FileExportScheduler.FormDataList.resources
+D:\.NET CORE\ES-GSMT-Demo\ES-GSMT-Demo\FileExportScheduler\obj\Debug\FileExportScheduler.FormMain.resources
+D:\.NET CORE\ES-GSMT-Demo\ES-GSMT-Demo\FileExportScheduler\obj\Debug\FileExportScheduler.FormSetting.resources
+D:\.NET CORE\ES-GSMT-Demo\ES-GSMT-Demo\FileExportScheduler\obj\Debug\FileExportScheduler.Properties.Resources.resources
+D:\.NET CORE\ES-GSMT-Demo\ES-GSMT-Demo\FileExportScheduler\obj\Debug\FileExportScheduler.ProtocolConfiguration.resources
+D:\.NET CORE\ES-GSMT-Demo\ES-GSMT-Demo\FileExportScheduler\obj\Debug\FileExportScheduler.csproj.GenerateResource.cache
+D:\.NET CORE\ES-GSMT-Demo\ES-GSMT-Demo\FileExportScheduler\obj\Debug\FileExportScheduler.csproj.CoreCompileInputs.cache
+D:\.NET CORE\ES-GSMT-Demo\ES-GSMT-Demo\FileExportScheduler\obj\Debug\FileExportScheduler.csproj.CopyComplete
+D:\.NET CORE\ES-GSMT-Demo\ES-GSMT-Demo\FileExportScheduler\obj\Debug\FileExportScheduler.exe
+D:\.NET CORE\ES-GSMT-Demo\ES-GSMT-Demo\FileExportScheduler\obj\Debug\FileExportScheduler.pdb
+C:\Users\admin\Desktop\PLCAndModbus\FileExportScheduler\bin\Debug\FileExportScheduler.exe.config
+C:\Users\admin\Desktop\PLCAndModbus\FileExportScheduler\bin\Debug\FileExportScheduler.exe
+C:\Users\admin\Desktop\PLCAndModbus\FileExportScheduler\bin\Debug\FileExportScheduler.pdb
+C:\Users\admin\Desktop\PLCAndModbus\FileExportScheduler\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\PLCAndModbus\FileExportScheduler\obj\Debug\FileExportScheduler.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\PLCAndModbus\FileExportScheduler\obj\Debug\FileExportScheduler.DataDevice.resources
+C:\Users\admin\Desktop\PLCAndModbus\FileExportScheduler\obj\Debug\FileExportScheduler.DataProtocol.resources
+C:\Users\admin\Desktop\PLCAndModbus\FileExportScheduler\obj\Debug\FileExportScheduler.DeviceConfiguration.resources
+C:\Users\admin\Desktop\PLCAndModbus\FileExportScheduler\obj\Debug\FileExportScheduler.FormDataList.resources
+C:\Users\admin\Desktop\PLCAndModbus\FileExportScheduler\obj\Debug\FileExportScheduler.FormMain.resources
+C:\Users\admin\Desktop\PLCAndModbus\FileExportScheduler\obj\Debug\FileExportScheduler.FormSetting.resources
+C:\Users\admin\Desktop\PLCAndModbus\FileExportScheduler\obj\Debug\FileExportScheduler.Properties.Resources.resources
+C:\Users\admin\Desktop\PLCAndModbus\FileExportScheduler\obj\Debug\FileExportScheduler.ProtocolConfiguration.resources
+C:\Users\admin\Desktop\PLCAndModbus\FileExportScheduler\obj\Debug\FileExportScheduler.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\PLCAndModbus\FileExportScheduler\obj\Debug\FileExportScheduler.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\PLCAndModbus\FileExportScheduler\obj\Debug\FileExportScheduler.csproj.CopyComplete
+C:\Users\admin\Desktop\PLCAndModbus\FileExportScheduler\obj\Debug\FileExportScheduler.exe
+C:\Users\admin\Desktop\PLCAndModbus\FileExportScheduler\obj\Debug\FileExportScheduler.pdb
+C:\Users\admin\Desktop\PLCAndModbus\AnhDuc\FileExportScheduler\bin\Debug\FileExportScheduler.exe.config
+C:\Users\admin\Desktop\PLCAndModbus\AnhDuc\FileExportScheduler\bin\Debug\FileExportScheduler.exe
+C:\Users\admin\Desktop\PLCAndModbus\AnhDuc\FileExportScheduler\bin\Debug\FileExportScheduler.pdb
+C:\Users\admin\Desktop\PLCAndModbus\AnhDuc\FileExportScheduler\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\PLCAndModbus\AnhDuc\FileExportScheduler\obj\Debug\FileExportScheduler.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\PLCAndModbus\AnhDuc\FileExportScheduler\obj\Debug\FileExportScheduler.DataDevice.resources
+C:\Users\admin\Desktop\PLCAndModbus\AnhDuc\FileExportScheduler\obj\Debug\FileExportScheduler.DataProtocol.resources
+C:\Users\admin\Desktop\PLCAndModbus\AnhDuc\FileExportScheduler\obj\Debug\FileExportScheduler.DeviceConfiguration.resources
+C:\Users\admin\Desktop\PLCAndModbus\AnhDuc\FileExportScheduler\obj\Debug\FileExportScheduler.FormDataList.resources
+C:\Users\admin\Desktop\PLCAndModbus\AnhDuc\FileExportScheduler\obj\Debug\FileExportScheduler.FormMain.resources
+C:\Users\admin\Desktop\PLCAndModbus\AnhDuc\FileExportScheduler\obj\Debug\FileExportScheduler.FormSetting.resources
+C:\Users\admin\Desktop\PLCAndModbus\AnhDuc\FileExportScheduler\obj\Debug\FileExportScheduler.Properties.Resources.resources
+C:\Users\admin\Desktop\PLCAndModbus\AnhDuc\FileExportScheduler\obj\Debug\FileExportScheduler.ProtocolConfiguration.resources
+C:\Users\admin\Desktop\PLCAndModbus\AnhDuc\FileExportScheduler\obj\Debug\FileExportScheduler.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\PLCAndModbus\AnhDuc\FileExportScheduler\obj\Debug\FileExportScheduler.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\PLCAndModbus\AnhDuc\FileExportScheduler\obj\Debug\FileExportScheduler.csproj.CopyComplete
+C:\Users\admin\Desktop\PLCAndModbus\AnhDuc\FileExportScheduler\obj\Debug\FileExportScheduler.exe
+C:\Users\admin\Desktop\PLCAndModbus\AnhDuc\FileExportScheduler\obj\Debug\FileExportScheduler.pdb
